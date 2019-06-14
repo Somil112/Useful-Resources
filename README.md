@@ -1,16 +1,16 @@
 
 # Data Science
-----
+
 ## Data Science Cheat Sheet
 https://github.com/abhat222/Data-Science--Cheat-Sheet
 
 # Github
-----
+
 ## Markdown Cheat Sheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # Web
-----
+
 ## Free Amazing Web Templates
 https://www.creative-tim.com/
 
@@ -19,7 +19,7 @@ https://github.com/sahat/hackathon-starter
 
 
 # Maths
-----
+
 
 ## How to calculate multiplications easily?
 https://www.youtube.com/watch?v=nv6nViM9l9A
