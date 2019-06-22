@@ -27,6 +27,9 @@ https://www.youtube.com/watch?v=nv6nViM9l9A
 ## How to calculate squares easily?
 https://www.youtube.com/watch?v=RmjhV2e5pKs
 
+## Divisibility Rules
+https://www.mathsisfun.com/divisibility-rules.html
+
 # Python
 
 ## OOPs concepts in Python
