@@ -4,6 +4,14 @@
 ## Data Science Cheat Sheet
 https://github.com/abhat222/Data-Science--Cheat-Sheet
 
+## Machine Learning
+
+### Linear Algebra (3Blue1Brown)
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+### Principal Component Analysis
+https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2
+
 # Github
 
 ## Markdown Cheat Sheet
