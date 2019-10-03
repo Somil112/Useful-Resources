@@ -25,6 +25,12 @@ https://www.creative-tim.com/
 ## Node.js Hackathon Boiler Plate
 https://github.com/sahat/hackathon-starter
 
+## React JS Crash Course
+https://www.youtube.com/watch?v=sBws8MSXN7A
+
+## Redux Crash Course
+https://www.youtube.com/watch?v=93p3LxR9xfM
+
 
 # Maths
 
