@@ -17,6 +17,9 @@ https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component
 ## Markdown Cheat Sheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+## Markdown Editor
+https://www.stackedit.io
+
 # Web
 
 ## Free Amazing Web Templates
@@ -42,6 +45,13 @@ https://www.mathsisfun.com/divisibility-rules.html
 
 ## OOPs concepts in Python
 https://www.youtube.com/watch?v=qiSCMNBIP2g
+
+
+
+# Bootstrap
+
+## Custom Styling with Bootstrap SASS
+https://www.youtube.com/watch?v=pB7EwxwSfVk
 
 
 ## More to be added soon...
