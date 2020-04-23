@@ -28,6 +28,12 @@ https://www.creative-tim.com/
 ## Node.js Hackathon Boiler Plate
 https://github.com/sahat/hackathon-starter
 
+## Difference between rem, em and px in HTML
+https://www.youtube.com/watch?v=H4UtKu11yXg
+
+## Responsive Design Crash course with scratch CSS
+https://www.youtube.com/watch?v=QA0XpGhiz5w
+
 
 # Maths
 
